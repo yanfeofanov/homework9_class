@@ -1,5 +1,6 @@
+package lesson1;
 
-public class Print {
+public class Lesson1 {
     public static void main(String[] args) {
 
         Book book1 = new Book("Тихий Дон");
